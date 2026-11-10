@@ -19,8 +19,8 @@ The people behind EAT Technologies and Animora.
 Visual artist and builder. Leads EAT Technologies and designs and builds the Animora platform.
 
 **Contact**
-- Instagram: [@REPLACE-HANDLE](https://instagram.com/REPLACE-HANDLE)
-- TikTok: [@REPLACE-HANDLE](https://tiktok.com/@REPLACE-HANDLE)
+- Instagram: [Instagram](https://www.instagram.com/amos.e.a.t?vrfl=cTBxenI1aXlhNGVz)
+- TikTok: [TikTok](https://www.tiktok.com/@mr.eat032?_r=1&_t=ZS-9BH4upsmenA)
 
 ---
 
@@ -39,7 +39,7 @@ Leads Animora's product vision and operations across EAT Technologies.
 
 | Name | Title | Focus |
 |---|---|---|
-| **Irene Linah** | Advisor | [Add focus area] |
+| **Irene Linah** | Advisor |  
 
 ---
 
@@ -49,12 +49,12 @@ Leads Animora's product vision and operations across EAT Technologies.
 |---|---|---|
 | Amos Titus | Co-founder & CEO, EAT · CTO, Animora | Company direction, architecture, engineering |
 | Mark Allan | Co-founder & COO, EAT · CEO, Animora | Product vision, operations, partnerships |
-| Irene Linah | Advisor | [Add focus area] |
+| Irene Linah | Advisor |
 
 ---
 
 ## Join us
 
-Interested in working with EAT Technologies? Reach out at [REPLACE-WITH-EMAIL].
+Interested in working with EAT Technologies? Reach out at hello@animora.tech
 
 Back to the [EAT Technologies organization page](https://github.com/EAT-Technologies).
